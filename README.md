@@ -18,3 +18,7 @@ https://arxiv.org/abs/2407.03168
 https://liveportrait.github.io/
 
 ### 🖼 Output
+
+https://github.com/camenduru/LivePortrait-jupyter/assets/54370274/82d53b8e-95d4-444e-a5fb-dd0a2d52c909
+
+https://github.com/camenduru/LivePortrait-jupyter/assets/54370274/a09683c1-4eef-4aa7-8221-b6263bc6d3fd
