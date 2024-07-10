@@ -7,6 +7,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LivePortrait-jupyter/blob/main/LivePortrait_jupyter.ipynb) | LivePortrait_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LivePortrait-jupyter/blob/main/LivePortrait_gradio_jupyter.ipynb) | LivePortrait_gradio_jupyter
 
 ### 🧬 Code
 https://github.com/KwaiVGI/LivePortrait
